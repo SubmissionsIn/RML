@@ -1,6 +1,6 @@
 # Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation
 
-The complete documents related to reproduction are provided in **[Download](https://drive.google.com/drive/folders/1aoIfW4pqxHL9-q-DmKGx7EFUAlBYMjzt?usp=sharing)** or **[国内下载源](https://pan.baidu.com/s/1QFWmyDY6Ig3Trc4UjPKJzA?pwd=3wym)**.
+The complete documents for reproduction are provided in **[Download](https://drive.google.com/drive/folders/1aoIfW4pqxHL9-q-DmKGx7EFUAlBYMjzt?usp=sharing)** or **[国内下载源](https://pan.baidu.com/s/1QFWmyDY6Ig3Trc4UjPKJzA?pwd=3wym)**.
 
 The detailed settings are included in 'train.py', and 'python train.py' can easily run the RML algorithm.
 
