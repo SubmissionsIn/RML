@@ -6,6 +6,7 @@ The detailed settings are included in 'train.py', and 'python train.py' can easi
 
 If you find it useful for your work, please cite:
 
+```
 @InProceedings{Xu_2025_ICCV,
     author    = {Xu, Jie and Zhao, Na and Niu, Gang and Sugiyama, Masashi and Zhu, Xiaofeng},
     title     = {Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation},
@@ -14,3 +15,4 @@ If you find it useful for your work, please cite:
     year      = {2025},
     pages     = {4232-4241}
 }
+```
