@@ -4,7 +4,7 @@ The complete documents for reproduction are provided in **[Download](https://dri
 
 The detailed settings are included in 'train.py', and 'python train.py' can easily run the RML algorithm.
 
-If you find it useful for your work, please cite:
+If you find it useful for your work, please consider to cite:
 
 ```
 @InProceedings{Xu_2025_ICCV,
